@@ -6,7 +6,8 @@ Ini adalah program yang dibuat pada video Youtube Saya [https://www.youtube.com/
 
 Anda perlu menginstall Library `requests` dan `BeautifulSoup` dengan cara
 
-```pip install requests bs4
+```
+pip install requests bs4
 ```
 
 
