@@ -14,7 +14,7 @@ pip install requests bs4
 ## Cara run program
 
 cukup mengetikkan
-```python sample.py```
+```python cek_harga_game.py```
 
 
 ## Meta
